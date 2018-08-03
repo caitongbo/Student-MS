@@ -28,12 +28,7 @@
 			<li class="active"><li><a href="blank"></i><span class="glyphicon glyphicon-home"></span> 首页</a></li>
 			<li><a href="admin?action=list"><span class="glyphicon glyphicon-user"></span> 学生管理</a></li>
 			<li><a href="admin?action=preSave"><span class="glyphicon glyphicon-plus"></span> 添加</a></li>	
- <form class="navbar-form navbar-left" role="search">
-  
-            <input type="text" class="form-control" placeholder="姓名、学号">
-</form>
-<li><a href="admin?action=list"><span class="glyphicon glyphicon-search"></span> 搜索</a></li>
-<li><a href="login.jsp"><span class="glyphicon glyphicon-log-out"></span> 退出登录</a></li>
+			<li><a href="login.jsp"><span class="glyphicon glyphicon-log-out"></span> 退出登录</a></li>
 		</ul>
 	</div>
 	</div>
