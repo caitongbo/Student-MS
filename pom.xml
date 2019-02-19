@@ -5,16 +5,16 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.yctu</groupId>
-  <artifactId>StudentManagementSystem</artifactId>
+  <artifactId>student</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
-  <name>StudentManagementSystem Maven Webapp</name>
+  <name>student Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
   <build>
-    <finalName>StudentManagementSystem</finalName>
+    <finalName>student</finalName>
     <resources>
       <resource>
         <directory>${basedir}/src/main/java</directory>
@@ -57,7 +57,7 @@
           <username>admin</username>
           <password>010315</password>
           <update>true</update>
-          <path>/studentManagementSystem</path>
+          <path>/student</path>
         </configuration>
       </plugin>
     </plugins>

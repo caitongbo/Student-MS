@@ -1,8 +1,8 @@
-# StudentManagementSystem
+# student
 
 演示地址：
 
-   https://lab.caitongbo.com/studentManagementSystem
+   https://lab.caitongbo.com/student
     
    | 类型 | 账号 | 密码 |
    |  :-: |  :-: |  :-: | 
